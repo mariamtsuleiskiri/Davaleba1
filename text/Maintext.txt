@@ -1,1 +1,1 @@
-This is the first text in the Main/Master
+changing the first text on github to create conflict in vcode
