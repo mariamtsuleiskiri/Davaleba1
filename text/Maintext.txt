@@ -1,1 +1,2 @@
 changing the first text on github to create conflict in vcode
+conflict fixed by choosing github commit
