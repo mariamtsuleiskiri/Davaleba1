@@ -1,1 +1,3 @@
 changing the first text on github to create conflict in vcode
+text already exists on this line in vscode
+and on this line aswell
