@@ -1,3 +1,5 @@
 changing the first text on github to create conflict in vcode
 conflict fixed by choosing github commit
 lets try another conflict from vscode this time
+text already exists on this line in vscode
+and on this line aswell
