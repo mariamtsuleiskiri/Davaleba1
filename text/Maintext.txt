@@ -3,3 +3,4 @@ conflict fixed by choosing github commit
 lets try another conflict from vscode this time
 text already exists on this line in vscode
 and on this line aswell
+doing one last conflict exercise 
