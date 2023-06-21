@@ -4,3 +4,4 @@ lets try another conflict from vscode this time
 text already exists on this line in vscode
 and on this line aswell
 last conflict from vcode different solution this time
+another text

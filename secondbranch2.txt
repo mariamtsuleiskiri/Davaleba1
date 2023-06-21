@@ -1,0 +1,3 @@
+another text for the second branch
+change to this file to see git diff with no arguments
+last modification to test git diff --staged
